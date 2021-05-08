@@ -5,10 +5,10 @@ def func(first,sec,c):
 	while sec:
 		if findall("[/]",sec):
 			sec1 = int(sec[0:sec.find('/')])
-			sec2 = sec.replace(str(sec1) + '/',"") #this whole block of if else code is for taking string value.. 
-		elif findall("[x]",sec):				   # 1 by 1 to set value for sec1 ,which is used in main calculation.. 
-			sec1 = int(sec[0:sec.find('x')])       # and sec2 which is used to terminate while loop when string become empty..
-			sec2 = sec.replace(str(sec1) + 'x',"") # or there is one value left at the end
+			sec2 = sec.replace(str(sec1) + '/',"") 
+		elif findall("[x]",sec):				   
+			sec1 = int(sec[0:sec.find('x')])       
+			sec2 = sec.replace(str(sec1) + 'x',"") 
 		elif findall("[\-]",sec):
 			sec1 = int(sec[0:sec.find('-')])
 			sec2 = sec.replace(str(sec1) + '-',"")
