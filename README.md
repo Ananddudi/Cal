@@ -10,9 +10,9 @@ It is my first project. <i>The objective was to create something important enoug
 </ul> 
 PyQt5 is cross-platform GUI toolkit which helps to develop an interactive desktop application with ease and simplicity so it became my first choice to get my head around.
 
-In order to installing the finished application two obvious things are mandatory, the <b>Python >> 3.0 and the PyQt5 module</b>.
+In order to installing the finished application two obvious things are mandatory, the <b>Python >> 3.0</b> and the <b>PyQt5</b> module.
 
-if above installation looks not seems feasible then there is astonishing python package is available called <i>PyInstaller</i>.Basically it bundles the application and all its dependencies into a single package equivalent to windows .exe(executable) file,a binary file so you dont have to install/download anything mentioned above but there is small gotcha that is you needs to make distinct packages for execute application in that specific platform.well <a href="https://pyinstaller.readthedocs.io/en/stable/">here</a> is a complete description.<span>&#128522</span> 
-if you do not want to do extra work let me know i will make it for your OS compatible and just
-one binary file using pyinstaller. 
-Thanks! <a href="https://photos.app.goo.gl/jLM2e9yJVLPuZT559">Here</a> is the link for user interface
+if above installation looks not seems feasible then there is astonishing python package is available called <i><b>PyInstaller</i></b>.Basically it bundles the application and all its dependencies into a single package equivalent to windows .exe(executable) file, a binary file so you dont have to install/download anything mentioned above but there is small gotcha that is you needs to make distinct packages for execute application in that specific platform.  Well <a href="https://pyinstaller.readthedocs.io/en/stable/">here</a> is a complete description.:blush: 
+
+
+<a href="https://photos.app.goo.gl/jLM2e9yJVLPuZT559">Here</a> is the link of Application! Thanks
